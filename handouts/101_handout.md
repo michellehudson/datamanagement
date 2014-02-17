@@ -1,7 +1,7 @@
 # Research Data Management 101
 ## Michelle Hudson & Kristin Bogdan
 ### CSSSI workshop Feb 21 2014
-#### view this online: [https://github.com/michellehudson/datamanagement/](https://github.com/michellehudson/datamanagement/)
+##### [https://github.com/michellehudson/datamanagement/](https://github.com/michellehudson/datamanagement/)
 
 ![DDI lifecycle model](https://raw.github.com/michellehudson/datamanagement/master/images/ddilifecycle.png "Model based on the DDI Lifecycle")
 
