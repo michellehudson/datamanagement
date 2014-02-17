@@ -1,92 +1,57 @@
-\documentclass[]{article}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\usepackage{fixltx2e} % provides \textsubscript
-% use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[utf8]{inputenc}
-\else % if luatex or xelatex
-  \ifxetex
-    \usepackage{mathspec}
-    \usepackage{xltxtra,xunicode}
-  \else
-    \usepackage{fontspec}
-  \fi
-  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \newcommand{\euro}{€}
-\fi
-% use microtype if available
-\IfFileExists{microtype.sty}{\usepackage{microtype}}{}
-\usepackage{graphicx}
-% Redefine \includegraphics so that, unless explicit options are
-% given, the image width will not exceed the width of the page.
-% Images get their normal width if they fit onto the page, but
-% are scaled down if they would overflow the margins.
-\makeatletter
-\def\ScaleIfNeeded{%
-  \ifdim\Gin@nat@width>\linewidth
-    \linewidth
-  \else
-    \Gin@nat@width
-  \fi
-}
-\makeatother
-\let\Oldincludegraphics\includegraphics
-{%
- \catcode`\@=11\relax%
- \gdef\includegraphics{\@ifnextchar[{\Oldincludegraphics}{\Oldincludegraphics[width=\ScaleIfNeeded]}}%
-}%
-\ifxetex
-  \usepackage[setpagesize=false, % page size defined by xetex
-              unicode=false, % unicode breaks when used with xetex
-              xetex]{hyperref}
-\else
-  \usepackage[unicode=true]{hyperref}
-\fi
-\hypersetup{breaklinks=true,
-            bookmarks=true,
-            pdfauthor={},
-            pdftitle={},
-            colorlinks=true,
-            citecolor=blue,
-            urlcolor=blue,
-            linkcolor=magenta,
-            pdfborder={0 0 0}}
-\urlstyle{same}  % don't use monospace font for urls
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{6pt plus 2pt minus 1pt}
-\setlength{\emergencystretch}{3em}  % prevent overfull lines
-\setcounter{secnumdepth}{0}
+\documentclass{tufte-handout}
 
-\author{}
-\date{}
+%\geometry{showframe}% for debugging purposes -- displays the margins
+
+\usepackage{amsmath}
+
+% Set up the images/graphics package
+\usepackage{graphicx}
+\setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio}
+\graphicspath{{graphics/}}
+
+\title{Research Data Management 101}
+\author[Michelle Hudson, Kristin Bogdan]{Michelle Hudson, Kristin Bogdan}
+\date{21 February 2014}  % if the \date{} command is left out, the current date will be used
+
+% The following package makes prettier tables.  We're all about the bling!
+\usepackage{booktabs}
+
+% The units package provides nice, non-stacked fractions and better spacing
+% for units.
+\usepackage{units}
+
+% The fancyvrb package lets us customize the formatting of verbatim
+% environments.  We use a slightly smaller font.
+\usepackage{fancyvrb}
+\fvset{fontsize=\normalsize}
+
+% Small sections of multiple columns
+\usepackage{multicol}
+
+% Provides paragraphs of dummy text
+\usepackage{lipsum}
+
+% These commands are used to pretty-print LaTeX commands
+\newcommand{\doccmd}[1]{\texttt{\textbackslash#1}}% command name -- adds backslash automatically
+\newcommand{\docopt}[1]{\ensuremath{\langle}\textrm{\textit{#1}}\ensuremath{\rangle}}% optional command argument
+\newcommand{\docarg}[1]{\textrm{\textit{#1}}}% (required) command argument
+\newenvironment{docspec}{\begin{quote}\noindent}{\end{quote}}% command specification environment
+\newcommand{\docenv}[1]{\textsf{#1}}% environment name
+\newcommand{\docpkg}[1]{\texttt{#1}}% package name
+\newcommand{\doccls}[1]{\texttt{#1}}% document class name
+\newcommand{\docclsopt}[1]{\texttt{#1}}% document class option name
 
 \begin{document}
 
-\section{Research Data Management
-101}\label{research-data-management-101}
-
-\subsection{Michelle Hudson \& Kristin
-Bogdan}\label{michelle-hudson-kristin-bogdan}
-
-\subsubsection{CSSSI workshop Feb 21
-2014}\label{csssi-workshop-feb-21-2014}
-
-\subparagraph{\url{https://github.com/michellehudson/datamanagement/}}\label{httpsgithub.commichellehudsondatamanagement}
-
-\begin{figure}[htbp]
-\centering
-\includegraphics{https://raw.github.com/michellehudson/datamanagement/master/images/ddilifecycle.png}
-\caption{DDI lifecycle model}
-\end{figure}
+\maketitle% this prints the handout title, author, and date 
+\paragraph{\url{https://github.com/michellehudson/datamanagement/}}\label{httpsgithub.commichellehudsondatamanagement} 
+\marginnote {michelle.hudson@yale.edu, kristin.bogdan@yale.edu}
 
 \section{Overview:}\label{overview}
+DDI lifecycle here
 
 Using the DDI data lifecycle model as a guide, we'll cover the following
-questions:
+questions: 
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
@@ -99,64 +64,35 @@ questions:
   What are guidelines for managing data at this stage?
 \end{enumerate}
 
-\section{Outline:}\label{outline}
-
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  What is data?
-\item
-  Why manage it?
-\item
-  Study concept
-\item
-  Data collection
-\item
-  Data processing
-\item
-  Data archiving
-\item
-  Data distribution
-\item
-  More resources
-\item
-  Q\&A
-\end{enumerate}
 
 \section{What is research data?}\label{what-is-research-data}
 
 Research data is defined as ``the recorded factual material commonly
 accepted in the scientific community as necessary to validate research
-findings.'' OMB Circular A-110.
+findings.'' \footnote {OMB Circular A-110.}
 
-There are four types of research data:
+There are four types of research data: \marginnote {Research data comes in many formats of information: documents,
+spreadsheets, field notebooks, survey responses, audio and video
+recordings, images, film, specimens, software code, and can be
+structured and stored in a variety of file formats.}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \itemsep1pt\parskip0pt\parsep0pt
 \item
-  Observational: captured in real time, usually irreplaceable (sensor
-  readings, telescope images, sample data, surveys).
+  Observational: captured in real time, usually irreplaceable (sensor readings, telescope images, sample data, surveys).
 \item
-  Experimental: data from lab equipment, can be reproducible but may be
-  expensive (gene sequences).
+  Experimental: data from lab equipment, can be reproducible but may be expensive (gene sequences).
 \item
   Simulation: data generated from test models (climate models).
 \item
-  Derived or compiled: reproducible but expensive (data mining, compiled
-  databases).
+  Derived or compiled: reproducible but expensive (data mining, compiled databases).
 \end{enumerate}
 
-Research data comes in many formats of information: documents,
-spreadsheets, field notebooks, survey responses, audio and video
-recordings, images, film, specimens, software code, and can be
-structured and stored in a variety of file formats.
 
 \section{Why manage research data?}\label{why-manage-research-data}
 
-\subsection{Transparency, integrity, and
-reproducibility:}\label{transparency-integrity-and-reproducibility}
+\subsection{Transparency, integrity, and reproducibility:}\label{transparency-integrity-and-reproducibility}
 
 Managing data and making it accessible by peers decreases the chances of
 an article being retracted because of falsified or missing data sets.
@@ -171,8 +107,7 @@ increased expectation that the products of federal funding will be
 required to be accessible to the public. In addition, many journals are
 requiring data deposit before an article may be published.
 
-\subsection{Personal \& professional
-benefits:}\label{personal-professional-benefits}
+\subsection{Personal \& professional benefits:}\label{personal-professional-benefits}
 
 If data is managed within your lab, research group, or simply
 well-organized for your own use, you will save time, energy, and
@@ -206,13 +141,25 @@ to the StatLab at the beginning of your project. If you know what
 analyses you want to do on your data, the StatLab can make sure you set
 out to collect your data correctly.
 
-\section{Data collection \&
-documentation}\label{data-collection-documentation}
+\section{Data collection \& documentation}\label{data-collection-documentation} 
+\marginnote{\subsection{Guidelines for data collection \& documentation:}\label{guidelines-doc}
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Spreadsheets vs.~databases: see the upcoming workshop on database
+  design: 4/18/2014, 1:30 - 3:30 CSSSI.
+\item
+  Consistency: whatever you do, stick with it.
+\item
+  Level of detail: decide how much detail you'll need now and in the
+  future.
+\end{enumerate}}
 
 \subsection{What tools and resources are
 available?}\label{what-tools-and-resources-are-available-1}
 
-\subsubsection{Yale-supported:}\label{yale-supported}
+\subsection{Yale-supported:}\label{yale-supported}
 
 \begin{itemize}
 \item
@@ -234,7 +181,7 @@ available?}\label{what-tools-and-resources-are-available-1}
   at Yale, and is supported by Yale ITS.
 \end{itemize}
 
-\subsubsection{Additional services \&
+\subsection{Additional services \&
 software:}\label{additional-services-software}
 
 \begin{itemize}
@@ -257,32 +204,34 @@ software:}\label{additional-services-software}
   statistical data and survey research using open data standards.
 \end{itemize}
 
-\subsection{Guidelines:}\label{guidelines}
+
+
+\section{Data processing \& analysis}\label{data-processing-analysis} \marginnote {\subsection{Guidelines for data processing \& analysis:}\label{guidelines-processing}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \itemsep1pt\parskip0pt\parsep0pt
 \item
-  Spreadsheets vs.~databases: see the upcoming workshop on database
-  design: 4/18/2014, 1:30 - 3:30 CSSSI.
+  Keep track of everything you do and always keep versions of your data
+  sets.
 \item
-  Consistency: whatever you do, stick with it.
+  Best practices for working with data during analysis -- folder
+  structures, naming conventions, statistical package considerations.
 \item
-  Level of detail: decide how much detail you'll need now and in the
-  future.
-\end{enumerate}
+  Back up data in accordance with good practice.
+\end{enumerate}}
 
-\subsection{Reminder!}\label{reminder}
+\marginnote {\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+\href{http://statlab.stat.yale.edu/workshops/}{CSSSI Workshops}
+\item
+\href{http://its.yale.edu/services/research-technologies/high-performance-computing}{High Performance Computing}
+\item
+  \href{http://guides.library.yale.edu/gis}{Geographic Information Systems}
+\end{enumerate}}
 
-\begin{figure}[htbp]
-\centering
-\includegraphics{https://raw.github.com/michellehudson/datamanagement/master/images/death.png}
-\caption{Bill Michener's description of data completeness over time}
-\end{figure}
-
-\section{Data processing \& analysis}\label{data-processing-analysis}
-
-\paragraph{\href{http://csssi.yale.edu/tech}{Software}:}\label{software}
 
 \begin{itemize}
 \itemsep1pt\parskip0pt\parsep0pt
@@ -293,14 +242,6 @@ software:}\label{additional-services-software}
   tools catalog}
 \end{itemize}
 
-\paragraph{\href{http://statlab.stat.yale.edu/workshops/}{CSSSI
-Workshops}}\label{csssi-workshops}
-
-\paragraph{\href{http://its.yale.edu/services/research-technologies/high-performance-computing}{High
-Performance Computing}}\label{high-performance-computing}
-
-\paragraph{\href{http://guides.library.yale.edu/gis}{Geographic
-Information Systems}}\label{geographic-information-systems}
 
 \paragraph{Workflow tools}\label{workflow-tools}
 
@@ -316,23 +257,20 @@ Information Systems}}\label{geographic-information-systems}
   application, emphasis on visualization.
 \end{itemize}
 
-\subsection{Guidelines:}\label{guidelines-1}
+
+\section{Data archiving \&
+preservation}\label{data-archiving-preservation} \marginnote{\subsection{Guidelines for data archiving \& preservation:}\label{guidelines-preservation}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \itemsep1pt\parskip0pt\parsep0pt
 \item
-  Keep track of everything you do and always keep versions of your data
-  sets.
+  Doing preservation yourself requires format migration and ensuring
+  integrity of files.
 \item
-  Best practices for working with data during analysis -- folder
-  structures, naming conventions, statistical package considerations.
-\item
-  How to back up data.
-\end{enumerate}
-
-\section{Data archiving \&
-preservation}\label{data-archiving-preservation}
+  Handing over your data to a repository like ICPSR is possible, and
+  will ensure the data is usable over the long-term.
+\end{enumerate}}
 
 \subsection{What does this stage
 involve?}\label{what-does-this-stage-involve}
@@ -352,21 +290,19 @@ submission or for finding research data to reuse, and you can search or
 browse by subject: + \href{http://databib.org/}{DataBib} +
 \href{http://www.re3data.org}{re3data}
 
-\subsection{Guidelines:}\label{guidelines-2}
+
+\section{Data distribution \&
+citation}\label{data-distribution-citation} \marginnote {\subsection{Guidelines for data distribution \& citation:}\label{guidelines-citation}
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \itemsep1pt\parskip0pt\parsep0pt
 \item
-  Doing preservation yourself requires format migration and ensuring
-  integrity of files.
+  Give your data set a title and make it easy to credit you.
 \item
-  Handing over your data to a repository like ICPSR is possible, and
-  will ensure the data is usable over the long-term.
-\end{enumerate}
-
-\section{Data distribution \&
-citation}\label{data-distribution-citation}
+  Always cite data that you use as if it were as important as the
+  journal articles you cite.
+\end{enumerate}}
 
 \subsection{What does this stage
 involve?}\label{what-does-this-stage-involve-1}
@@ -383,17 +319,7 @@ available?}\label{what-tools-and-resources-are-available-3}
 
 \paragraph{Repositories (listed above)}\label{repositories-listed-above}
 
-\subsection{Guidelines:}\label{guidelines-3}
 
-\begin{enumerate}
-\def\labelenumi{\arabic{enumi}.}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Give your data set a title and make it easy to credit you.
-\item
-  Always cite data that you use as if it were as important as the
-  journal articles you cite.
-\end{enumerate}
 
 \paragraph{Guides \& links}\label{guides-links}
 
@@ -404,45 +330,5 @@ These guides may be useful as you work on your projects: +
 \url{http://guides.library.yale.edu/eln} +
 \url{http://csssi.yale.edu/datamanagement}
 
-\section{Contact info}\label{contact-info}
-
-\subsubsection{Michelle Hudson}\label{michelle-hudson}
-
-\begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Science and Social Science Data Librarian
-\item
-  203.432.4587
-\item
-  \url{michelle.hudson@yale.edu}
-\item
-  office hours: \url{http://bit.ly/datalibofficehours}
-\end{itemize}
-
-\subsubsection{Kristin Bogdan}\label{kristin-bogdan}
-
-\begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Science and Social Science Data Librarian
-\item
-  203.436.5907
-\item
-  \url{kristin.bogdan@yale.edu}
-\item
-  office hours: \url{http://bit.ly/datalibofficehours}
-\end{itemize}
-
-\subsubsection{StatLab Consultants}\label{statlab-consultants-1}
-
-\begin{itemize}
-\itemsep1pt\parskip0pt\parsep0pt
-\item
-  Schedule:
-  \url{http://csssi.yale.edu/csssi-statistical-consultants-schedule}
-\item
-  203.432.3277
-\end{itemize}
 
 \end{document}
