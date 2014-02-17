@@ -32,7 +32,7 @@ Using the DDI data lifecycle model as a guide, we'll cover the following questio
 
 # What is research data?
 
-Research data is defined as "the recorded factual material commonly accepted in the scientific community as necessary to validate research findings." OMB Circular citation.
+Research data is defined as "the recorded factual material commonly accepted in the scientific community as necessary to validate research findings." OMB Circular A-110.
 
 There are four types of research data:
 
@@ -166,8 +166,8 @@ These stages are in separate boxes on the lifecycle model, and they may indeed b
 
 #### Workflow tools
 
-+ [Kepler](https://kepler-project.org/):
-+ [VisTrails](http://www.vistrails.org/index.php/Main_Page):
++ [Kepler](https://kepler-project.org/): https://kepler-project.org/ : open source scientific workflow application.
++ [VisTrails](http://www.vistrails.org/index.php/Main_Page): http://www.vistrails.org : open source scientific workflow application, emphasis on visualization.
 
 ## People:
 
