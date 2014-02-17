@@ -58,13 +58,13 @@ If data is managed within your lab, research group, or simply well-organized for
 ## What tools and resources are available?
 
 #### [DMPTool](https://dmp.cdlib.org/): 
-Yale is a DMPTool partner. Logging in with your Yale ID and password will give you access to the DMPTool, which will give you an overview of funder requirements (for various NSF, NIH, and other directorates and divisions), and walk you through building a data management plan, asking the right questions along the way. In the next iteration of the tool, we'll be able to further customize it with Yale-specific resources.
+Yale is a DMPTool partner. Logging in with your Yale ID and password will give you access to the DMPTool, which will give you an overview of funder requirements (for various NSF, NIH, and other directorates and divisions), and walk you through building a data management plan.
 
 #### [DMP Consultation Group](http://csssi.yale.edu/dmp):
-If you have to submit a DMP as part of a grant proposal and have trouble using the DMPTool or answering questions you think are critical to the good management of data, you can contact the DMP Consultation Group for help. This group can review written plans and offer feedback, or connect you with more resources at Yale you might be able to cite or consider including in your plan to make a stronger proposal.
+If you have to submit a DMP as part of a grant proposal and have trouble using the DMPTool or answering questions you think are critical to the good management of data, you can contact the DMP Consultation Group for help.
 
 #### [StatLab consultants](http://csssi.yale.edu/csssi-statistical-consultants-schedule):
-Even if you aren't submitting a grant proposal, it's a good idea to come to the StatLab at the beginning of your project. If you know what analyses you want to do on your data, the StatLab can make sure you set out to collect your data correctly. If you anticipate using StatLab services near the end of your project, it's much easier for them if you connect in the beginning of the project, as well.
+Even if you aren't submitting a grant proposal, it's a good idea to come to the StatLab at the beginning of your project. If you know what analyses you want to do on your data, the StatLab can make sure you set out to collect your data correctly.
 
 
 # Data collection & documentation
@@ -73,41 +73,37 @@ Even if you aren't submitting a grant proposal, it's a good idea to come to the 
 
 ### Yale-supported:
 
-#### [Box](http://its.yale.edu/services/collaboration-and-file-sharing/box-yale):
++ [Box](http://its.yale.edu/services/collaboration-and-file-sharing/box-yale):
 Box is a document-sharing cloud service available to everyone at Yale and is supported by Yale ITS. See the link for questions about security and size limits.
 
-#### [LabArchives](http://its.yale.edu/services/research-technologies/elab-notebook/labarchives-faqs):
++ [LabArchives](http://its.yale.edu/services/research-technologies/elab-notebook/labarchives-faqs):
 LabArchives is an electronic lab notebook solution available to everyone at Yale and is supported by Yale ITS. 
 
-#### [EliApps](http://its.yale.edu/services/email-and-calendars/eliapps-google-apps-education):
++ [EliApps](http://its.yale.edu/services/email-and-calendars/eliapps-google-apps-education):
 EliApps may be an appropriate place to collaborate for simple spreadsheets and forms for non-sensitive data.
 
-#### [Qualtrics](http://its.yale.edu/services/web-and-application-services/qualtrics-survey-tool):
++ [Qualtrics](http://its.yale.edu/services/web-and-application-services/qualtrics-survey-tool):
 Qualtrics is robust survey building software, is available to everyone at Yale, and is supported by Yale ITS. 
 
 ### Additional services & software:
 
-#### [GitHub](https://github.com/):
-GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. GitHub is not supported by Yale ITS.
++ [GitHub](https://github.com/): https://github.com/ 
+++ GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. GitHub is not supported by Yale ITS.
 
-#### [Morpho](https://knb.ecoinformatics.org/morphoportal.jsp):
-Morpho was developed for data management in ecology.
++ [Morpho](https://knb.ecoinformatics.org/morphoportal.jsp): https://knb.ecoinformatics.org/morphoportal.jsp
+++ Morpho was developed for data management in ecology.
 
-#### [Earthcube](http://earthcube.org/):
-Earthcube is a community driven data and knowledge management system that will allow for data sharing across the geosciences. 
++ [Earthcube](http://earthcube.org/): http://earthcube.org/
+++ Earthcube is a community driven data and knowledge management system that will allow for data sharing across the geosciences. 
 
-#### [Colectica](http://www.colectica.com/):
-Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
++ [Colectica](http://www.colectica.com/): http://www.colectica.com/
+++ Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
 
 ## Guidelines:
 
 1. Spreadsheets vs. databases: see the upcoming workshop on database design: 4/18/2014, 1:30 - 3:30 CSSSI.
 2. Consistency: whatever you do, stick with it.
 3. Level of detail: decide how much detail you'll need now and in the future.
-
-## Example: 
-
-The codebook for the [General Social Survey](http://www3.norc.org/GSS+Website/) is an enormous document that helps researchers use the data effectively and ensures that every variable is described. 
 
 ## Reminder!
 
@@ -116,12 +112,7 @@ The codebook for the [General Social Survey](http://www3.norc.org/GSS+Website/) 
 # Data processing & analysis
 
 #### [Software](http://csssi.yale.edu/tech):
-+ Stata
-+ SAS
-+ MatLab
-+ R
-+ OpenRefine
-+ Python
++ Stata, SAS, MatLab, R, OpenRefine, Python
 + [DataONE software tools catalog](http://www.dataone.org/software_tools_catalog)
 
 #### [CSSSI Workshops](http://statlab.stat.yale.edu/workshops/)
@@ -135,20 +126,6 @@ The codebook for the [General Social Survey](http://www3.norc.org/GSS+Website/) 
 + [Kepler](https://kepler-project.org/): https://kepler-project.org/ : open source scientific workflow application.
 + [VisTrails](http://www.vistrails.org/index.php/Main_Page): http://www.vistrails.org : open source scientific workflow application, emphasis on visualization.
 
-## People:
-
-#### Steve Weston, HPC specialist
-Steve has office hours in the CSSSI from 9:30 - 1:00 on Wednesdays.
-
-#### Stace Maples, GIS specialist
-Stace has office hours in the CSSSI, the med library, and HGS. Find out more here: [http://guides.library.yale.edu/gis](http://guides.library.yale.edu/gis)
-
-#### StatLab consultants:
-StatLab consultants staff a desk in the CSSSI. Their schedules are: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
-
-#### Kristin Bogdan & Michelle Hudson, Data Librarians
-Kristin & Michelle have offices in CSSSI, and you can see their offsite office hours at: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
-
 ## Guidelines:
 1. Keep track of everything you do and always keep versions of your data sets.
 2. Best practices for working with data during analysis -- folder structures, naming conventions, statistical package considerations.
@@ -159,7 +136,7 @@ Kristin & Michelle have offices in CSSSI, and you can see their offsite office h
 
 ## What does this stage involve?
 
-Archiving and preserving research data is different from distributing it or backing it up regularly.  Preservation ensures long-term retention of the data and the necessary migration from format to format that will be required to keep the data usable over a time period. How long you retain your data is often up to what your funding dictates -- some grants say three years, others five. In some cases, your data may have value for an indefinite period of time.
+Archiving and preserving research data is different from distributing it or backing it up regularly. Preservation ensures long-term retention of the data and the necessary migration from format to format that will be required to keep the data usable over a time period.
 
 ## What tools and resources are available?
 
@@ -173,14 +150,6 @@ A few projects aim to list all the data repositories available for submission or
 ## Guidelines: 
 1. Doing preservation yourself requires format migration and ensuring integrity of files.
 2. Handing over your data to a repository like ICPSR is possible, and will ensure the data is usable over the long-term.
-
-## Examples: 
-
-#### [Institution for Social & Policy Studies](http://isps.yale.edu/research#.UwJU7IVnCSo)
-ISPS is a Yale department that maintains a data archive of research that has been conducted by their affiliates.
-
-#### [ICPSR](http://icpsr.umich.edu)
-The Inter-university Consortium for Political and Social research is a domain archive that has been curating and maintaining access to data sets for over 50 years.
 
 
 # Data distribution & citation
