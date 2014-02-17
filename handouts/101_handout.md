@@ -87,17 +87,13 @@ Qualtrics is robust survey building software, is available to everyone at Yale, 
 
 ### Additional services & software:
 
-+ [GitHub](https://github.com/): https://github.com/ 
-++ GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. GitHub is not supported by Yale ITS.
++ [GitHub](https://github.com/): https://github.com/ GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. GitHub is not supported by Yale ITS.
 
-+ [Morpho](https://knb.ecoinformatics.org/morphoportal.jsp): https://knb.ecoinformatics.org/morphoportal.jsp
-++ Morpho was developed for data management in ecology.
++ [Morpho](https://knb.ecoinformatics.org/morphoportal.jsp): https://knb.ecoinformatics.org/morphoportal.jsp Morpho was developed for data management in ecology.
 
-+ [Earthcube](http://earthcube.org/): http://earthcube.org/
-++ Earthcube is a community driven data and knowledge management system that will allow for data sharing across the geosciences. 
++ [Earthcube](http://earthcube.org/): http://earthcube.org/ Earthcube is a community driven data and knowledge management system that will allow for data sharing across the geosciences. 
 
-+ [Colectica](http://www.colectica.com/): http://www.colectica.com/
-++ Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
++ [Colectica](http://www.colectica.com/): http://www.colectica.com/ Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
 
 ## Guidelines:
 
