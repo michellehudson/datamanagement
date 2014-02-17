@@ -5,12 +5,26 @@
 
 ![DDI lifecycle model](https://raw.github.com/michellehudson/datamanagement/master/images/ddilifecycle.png "Model based on the DDI Lifecycle")
 
-# Overview 
+# Overview:
+
 Using the DDI data lifecycle model as a guide, we'll cover the following questions:
 
 1. What does this stage of the data lifecycle involve?
 2. What resources are available for doing it well at Yale (& elsewhere)?
 3. What are guidelines for managing data at this stage?
+
+# Outline:
+
+1. What is data?
+2. Why manage it?
+3. Study concept
+4. Data collection
+5. Data processing
+6. Data archiving
+7. Data distribution
+8. More resources
+9. Q&A
+
 
 # What is research data?
 
@@ -101,12 +115,6 @@ The codebook for the [General Social Survey](http://www3.norc.org/GSS+Website/) 
 
 # Data processing & analysis
 
-## What does this stage involve?
-
-These stages are in separate boxes on the lifecycle model, and they may indeed be different steps, but not always. You usually process data in order to get to an analyzable form of it. The stages have the same considerations. This stage includes any data cleaning, refinement, integration, and organizing (combining variables, weighting variables) that you might do, as well as any computation necessary for analysis.
-
-## What tools and resources are available?
-
 #### [Software](http://csssi.yale.edu/tech):
 + Stata
 + SAS
@@ -151,8 +159,7 @@ Kristin & Michelle have offices in CSSSI, and you can see their offsite office h
 
 ## What does this stage involve?
 
-Archiving and preserving research data is different from distributing it or backing it up regularly.  Preservation ensures long-term retention of the data and the necessary migration from format to format that will be required to keep the data usable over a time period.
-How long you retain your data is often up to what your funding dictates -- some grants say three years, others five. In some cases, your data may have value for an indefinite period of time.
+Archiving and preserving research data is different from distributing it or backing it up regularly.  Preservation ensures long-term retention of the data and the necessary migration from format to format that will be required to keep the data usable over a time period. How long you retain your data is often up to what your funding dictates -- some grants say three years, others five. In some cases, your data may have value for an indefinite period of time.
 
 ## What tools and resources are available?
 
@@ -191,19 +198,6 @@ This is the stage (usually after archiving) where you can make your data, or a l
 1. Give your data set a title and make it easy to credit you.
 2. Always cite data that you use as if it were as important as the journal articles you cite.
 
-## Examples:
-1. ICPSR data citation
-2. DataCite data citation
-
-
-# References & other resources:
-
-#### [NECDMC](http://library.umassmed.edu/necdmc/index)
-Some material from this presentation came from the New England Collaborative Data Management Curriculum.
-
-#### [MANTRA](http://datalib.edina.ac.uk/mantra/)
-Mantra is series of useful research data management training modules you can complete online.
-
 #### Guides & links
 These guides may be useful as you work on your projects:
 + [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
@@ -211,7 +205,6 @@ These guides may be useful as you work on your projects:
 + [http://guides.library.yale.edu/sciencedata](http://guides.library.yale.edu/sciencedata)
 + [http://guides.library.yale.edu/eln](http://guides.library.yale.edu/eln)
 + [http://csssi.yale.edu/datamanagement](http://csssi.yale.edu/datamanagement)
-
 
 # Contact info 
 
