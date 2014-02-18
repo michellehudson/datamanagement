@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.16)  17 FEB 2014 17:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.16)  18 FEB 2014 11:08
 entering extended mode
 **C:/Users/Michelle/Documents/GitHub/datamanagement/handouts/101_handout.tex
 (C:/Users/Michelle/Documents/GitHub/datamanagement/handouts/101_handout.tex
@@ -763,22 +763,32 @@ LaTeX Warning: Marginpar on page 1 moved.
 
 LaTeX Warning: Marginpar on page 1 moved.
 
+
+LaTeX Warning: Marginpar on page 1 moved.
+
+
+LaTeX Warning: Marginpar on page 1 moved.
+
 [1
 
 {C:/Users/Michelle/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 |\T1/pplj/m/it/10.95 Guidelines for data col-lec-tion &
  []
 
 
 LaTeX Warning: Marginpar on page 2 moved.
 
-LaTeX Font Info:    Try loading font information for TS1+pplj on input line 166
+LaTeX Font Info:    Try loading font information for TS1+pplj on input line 176
 .
 (C:\Users\Michelle\Documents\MiKTeX\tex\latex\psnfss\ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [2]
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 214--214
 |\T1/pplj/m/it/10.95 Guidelines for data pro-cess-ing
  []
 
@@ -786,13 +796,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 222--222
 LaTeX Warning: Marginpar on page 3 moved.
 
 
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-LaTeX Warning: Marginpar on page 3 moved.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--273
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
 |\T1/pplj/m/it/10.95 Guidelines for data archiv-ing &
  []
 
@@ -800,38 +804,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 273--273
 LaTeX Warning: Marginpar on page 3 moved.
 
 
-LaTeX Warning: Marginpar on page 3 moved.
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
 |\T1/pplj/m/it/10.95 Guidelines for data dis-tri-bu-tion
  []
 
 
-LaTeX Warning: Marginpar on page 4 moved.
+LaTeX Warning: Marginpar on page 3 moved.
 
+[3]
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 327.
+(Font)              scaled to size 8.50006pt on input line 308.
+
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 334.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 315.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 334.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 315.
  (C:\Users\Michelle\Documents\GitHub\datamanagement\handouts\101_handout.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 334.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 334.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 315.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 315.
 Package rerunfilecheck Info: File `101_handout.out' has not changed.
-(rerunfilecheck)             Checksum: CF8180BA36694BC17E4C72BC68405B4A;1348.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 334.
+(rerunfilecheck)             Checksum: 461B6115AA7E3828F8D8C993336EC885;1349.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 315.
  ) 
 Here is how much of TeX's memory you used:
- 13413 strings out of 493921
- 189004 string characters out of 3144466
- 375289 words of memory out of 3000000
- 16427 multiletter control sequences out of 15000+200000
+ 13419 strings out of 493921
+ 189068 string characters out of 3144466
+ 375248 words of memory out of 3000000
+ 16428 multiletter control sequences out of 15000+200000
  53391 words of font info for 81 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  40i,12n,45p,319b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -842,9 +845,9 @@ ents/MiKTeX/fonts/type1/bera/fvmr8a.pfb><C:/Users/Michelle/Documents/MiKTeX/fon
 ts/type1/bera/fvmro8a.pfb><C:/Users/Michelle/Documents/MiKTeX/fonts/type1/urw/p
 alatino/uplr8a.pfb><C:/Users/Michelle/Documents/MiKTeX/fonts/type1/urw/palatino
 /uplri8a.pfb>
-Output written on 101_handout.pdf (4 pages, 87135 bytes).
+Output written on 101_handout.pdf (4 pages, 87491 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 62 named destinations out of 1000 (max. 500000)
  1089 words of extra memory for PDF output out of 10000 (max. 10000000)
 
