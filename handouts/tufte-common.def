@@ -394,20 +394,20 @@
 
 \RequirePackage{ragged2e}
 \setlength{\RaggedRightRightskip}{\z@ plus 0.08\hsize}
-\setlength{\RaggedRightParindent}{1pc}
+\setlength{\RaggedRightParindent}{0pc}
 
 % Paragraph indentation and separation for normal text
 \newcommand{\@tufte@reset@par}{%
-  \setlength{\RaggedRightParindent}{1.0pc}%
-  \setlength{\parindent}{1pc}%
+  \setlength{\RaggedRightParindent}{0.0pc}%
+  \setlength{\parindent}{0pc}%
   \setlength{\parskip}{0pt}%
 }
 \@tufte@reset@par
 
 % Paragraph indentation and separation for marginal text
 \newcommand{\@tufte@margin@par}{%
-  \setlength{\RaggedRightParindent}{0.5pc}%
-  \setlength{\parindent}{0.5pc}%
+  \setlength{\RaggedRightParindent}{0.0pc}%
+  \setlength{\parindent}{0.0pc}%
   \setlength{\parskip}{0pt}%
 }
 
