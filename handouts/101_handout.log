@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.16)  18 FEB 2014 11:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.16)  19 FEB 2014 15:50
 entering extended mode
 **C:/Users/Michelle/Documents/GitHub/datamanagement/handouts/101_handout.tex
 (C:/Users/Michelle/Documents/GitHub/datamanagement/handouts/101_handout.tex
@@ -741,50 +741,63 @@ LaTeX Warning: Marginpar on page 1 moved.
 LaTeX Warning: Marginpar on page 1 moved.
 
 
-LaTeX Warning: Marginpar on page 1 moved.
+Underfull \hbox (badness 2326) in paragraph at lines 67--67
+[]\T1/pplj/m/n/8 CSSSI Work-shops: 
+ []
+
+
+Overfull \hbox (0.93593pt too wide) in paragraph at lines 67--67
+\T1/pplj/m/n/8 http://statlab.stat.yale.edu/workshops/[] 
+ []
 
 
 LaTeX Warning: Marginpar on page 1 moved.
 
-<ddilifecycle.pdf, id=46, 1204.5pt x 602.25pt>
+
+LaTeX Warning: Marginpar on page 1 moved.
+
+<ddilifecycle.pdf, id=38, 1204.5pt x 602.25pt>
 File: ddilifecycle.pdf Graphic file (type pdf)
  <use ddilifecycle.pdf>
-Package pdftex.def Info: ddilifecycle.pdf used on input line 85.
+Package pdftex.def Info: ddilifecycle.pdf used on input line 87.
 (pdftex.def)             Requested size: 312.00473pt x 156.00235pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--91
+Underfull \hbox (badness 10000) in paragraph at lines 87--93
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 97.
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 99.
 
 (C:\Users\Michelle\Documents\MiKTeX\tex\latex\psnfss\ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 97.
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 99.
 
 
 (C:\Users\Michelle\Documents\MiKTeX\tex\latex\psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 97.
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 99.
 
 
 (C:\Users\Michelle\Documents\MiKTeX\tex\latex\psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 97.
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 99.
 
 
 (C:\Users\Michelle\Documents\MiKTeX\tex\latex\psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 97.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 99.
 
 
 (C:\Users\Michelle\Documents\MiKTeX\tex\latex\psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
+
+LaTeX Warning: Marginpar on page 1 moved.
+
 
 LaTeX Warning: Marginpar on page 1 moved.
 
@@ -799,78 +812,90 @@ LaTeX Warning: Marginpar on page 1 moved.
 LaTeX Warning: Marginpar on page 2 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--181
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
 |\T1/pplj/m/it/10.95 Guidelines for data col-lec-tion &
  []
 
 
 LaTeX Warning: Marginpar on page 2 moved.
 
-LaTeX Font Info:    Try loading font information for TS1+pplj on input line 189
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+Overfull \hbox (2.31992pt too wide) in paragraph at lines 161--161
+[] [][]\T1/pplj/m/it/10 Stat-Lab con-sul-tants http://csssi.yale.edu/csssi-stat
+istical-consultants-schedule[][]  
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+pplj on input line 167
 .
 (C:\Users\Michelle\Documents\MiKTeX\tex\latex\psnfss\ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-) [2]
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
+)
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 |\T1/pplj/m/it/10.95 Guidelines for data pro-cess-ing
  []
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 2 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 255--255
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
 |\T1/pplj/m/it/10.95 Guidelines for data archiv-ing &
  []
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 2 moved.
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 2 moved.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
 |\T1/pplj/m/it/10.95 Guidelines for data dis-tri-bu-tion
  []
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 2 moved.
 
 
-LaTeX Warning: Marginpar on page 3 moved.
+LaTeX Warning: Marginpar on page 2 moved.
 
 
 Package bibentry Warning: You have used \nobibliography* 
 (bibentry)                without a following \bibliography.
 (bibentry)                You may not be able to run BibTeX.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 263.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 263.
  (C:\Users\Michelle\Documents\GitHub\datamanagement\handouts\101_handout.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 291.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 291.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 263.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 263.
 Package rerunfilecheck Info: File `101_handout.out' has not changed.
-(rerunfilecheck)             Checksum: 08B15FD401D1722E14CB23DE049A93F5;1349.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
+(rerunfilecheck)             Checksum: D4B0E0AF383EE3C21B062CF17EB28E31;1114.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 263.
  ) 
 Here is how much of TeX's memory you used:
- 13385 strings out of 493921
- 188474 string characters out of 3144466
- 375165 words of memory out of 3000000
- 16408 multiletter control sequences out of 15000+200000
+ 13363 strings out of 493921
+ 188080 string characters out of 3144466
+ 377769 words of memory out of 3000000
+ 16396 multiletter control sequences out of 15000+200000
  52116 words of font info for 77 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 40i,11n,45p,333b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,11n,45p,452b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Michelle/Documents/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/Users
 /Michelle/Documents/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Michell
 e/Documents/MiKTeX/fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/Michelle/Docum
 ents/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/Michelle/Documents/Mi
 KTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 101_handout.pdf (3 pages, 168268 bytes).
+Output written on 101_handout.pdf (2 pages, 164727 bytes).
 PDF statistics:
- 164 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 1094 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 147 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
+ 1078 words of extra memory for PDF output out of 10000 (max. 10000000)
 
