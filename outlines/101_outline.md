@@ -150,13 +150,13 @@ These stages are in separate boxes on the lifecycle model, and they may indeed b
 ## What tools and resources are available?
 
 #### [Software](http://csssi.yale.edu/tech):
-+ Stata
-+ SAS
-+ MatLab
-+ R
-+ OpenRefine
-+ Python
-+ [DataONE software tools catalog](http://www.dataone.org/software_tools_catalog)
+- Stata
+- SAS
+- MatLab
+- R
+- OpenRefine
+- Python
+- [DataONE software tools catalog](http://www.dataone.org/software_tools_catalog)
 
 #### [CSSSI Workshops](http://statlab.stat.yale.edu/workshops/)
 
@@ -166,8 +166,8 @@ These stages are in separate boxes on the lifecycle model, and they may indeed b
 
 #### Workflow tools
 
-+ [Kepler](https://kepler-project.org/): https://kepler-project.org/ : open source scientific workflow application.
-+ [VisTrails](http://www.vistrails.org/index.php/Main_Page): http://www.vistrails.org : open source scientific workflow application, emphasis on visualization.
+- [Kepler](https://kepler-project.org/): https://kepler-project.org/ : open source scientific workflow application.
+- [VisTrails](http://www.vistrails.org/index.php/Main_Page): http://www.vistrails.org : open source scientific workflow application, emphasis on visualization.
 
 ## People:
 
@@ -201,8 +201,8 @@ How long you retain your data is often up to what your funding dictates -- some 
 #### Lists of repositories:
 
 A few projects aim to list all the data repositories available for submission or for finding research data to reuse, and you can search or browse by subject:
-+ [DataBib](http://databib.org/)
-+ [re3data](http://www.re3data.org)
+- [DataBib](http://databib.org/)
+- [re3data](http://www.re3data.org)
 
 
 ## Guidelines: 
@@ -248,28 +248,28 @@ Mantra is series of useful research data management training modules you can com
 
 #### Guides & links
 These guides may be useful as you work on your projects:
-+ [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
-+ [http://guides.library.yale.edu/data-statistics](http://guides.library.yale.edu/data-statistics)
-+ [http://guides.library.yale.edu/sciencedata](http://guides.library.yale.edu/sciencedata)
-+ [http://guides.library.yale.edu/eln](http://guides.library.yale.edu/eln)
-+ [http://csssi.yale.edu/datamanagement](http://csssi.yale.edu/datamanagement)
+- [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
+- [http://guides.library.yale.edu/data-statistics](http://guides.library.yale.edu/data-statistics)
+- [http://guides.library.yale.edu/sciencedata](http://guides.library.yale.edu/sciencedata)
+- [http://guides.library.yale.edu/eln](http://guides.library.yale.edu/eln)
+- [http://csssi.yale.edu/datamanagement](http://csssi.yale.edu/datamanagement)
 
 
 # Contact info 
 
 ### Michelle Hudson
-+ Science and Social Science Data Librarian
-+ 203.432.4587
-+ [michelle.hudson@yale.edu](michelle.hudson@yale.edu)
-+ office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
+- Science and Social Science Data Librarian
+- 203.432.4587
+- [michelle.hudson@yale.edu](michelle.hudson@yale.edu)
+- office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
 
 ### Kristin Bogdan
-+ Science and Social Science Data Librarian
-+ 203.436.5907
-+ [kristin.bogdan@yale.edu](kristin.bogdan@yale.edu)
-+ office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
+- Science and Social Science Data Librarian
+- 203.436.5907
+- [kristin.bogdan@yale.edu](kristin.bogdan@yale.edu)
+- office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
 
 ### StatLab Consultants
-+ Schedule: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
-+ 203.432.3277
+- Schedule: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
+- 203.432.3277
 
