@@ -32,7 +32,7 @@ Using the DDI data lifecycle model as a guide, we'll cover the following questio
 
 DDI Lifecycle model
 
-![DDI lifecycle model](https://raw.github.com/michellehudson/datamanagement/master/images/ddilifecycle.png "Model based on the DDI Lifecycle")
+![DDI lifecycle model](https://raw.github.com/michellehudson/datamanagement/master/images/ddilifecycle.png)
 
 !
 
