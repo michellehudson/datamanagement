@@ -32,7 +32,7 @@ Using the DDI data lifecycle model as a guide, we'll cover the following questio
 
 DDI Lifecycle model
 
-![DDI lifecycle model](https://raw.github.com/michellehudson/datamanagement/master/images/ddilifecycle.png)
+![DDI lifecycle model](ddilifecycle.png)
 
 !
 
@@ -161,8 +161,10 @@ Collection & documentation of data; collaborations with colleagues.
 The codebook for the [General Social Survey](http://www3.norc.org/GSS+Website/) is an enormous document that helps researchers use the data effectively and ensures that every variable is described. 
 
 !
-# Bill Michener's description of data completeness over time
-![Bill Michener's description of data completeness over time](https://raw.github.com/michellehudson/datamanagement/master/images/death.png "Bill Michener's description of data completeness over time")
+
+##### Bill Michener's description of data completeness over time:
+
+![Bill Michener's description of data completeness over time](death.png)
 
 !
 
