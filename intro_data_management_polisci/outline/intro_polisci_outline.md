@@ -60,11 +60,11 @@ If data is managed within your lab, research group, or simply well-organized for
 #### [DMPTool](https://dmptool.org): 
 Yale is a DMPTool partner. Logging in with your Yale ID and password will give you access to the DMPTool, which will give you an overview of funder requirements (for various NSF, NIH, and other directorates and divisions), and walk you through building a data management plan.
 
-#### [DMP Consultation Group](http://csssi.yale.edu/dmp):
-If you have to submit a DMP as part of a grant proposal and have trouble using the DMPTool or answering questions you think are critical to the good management of data, you can contact the DMP Consultation Group for help.
+#### [Data Management Consultation Group](http://csssi.yale.edu/dmp):
+If you have to submit a DMP as part of a grant proposal and have trouble using the DMPTool or answering questions you think are critical to the good management of data, you can contact the DMP Consultation Group for help. The consultation group can review written plans, help write plans, or help refer to needed services.
 
-#### [Consultants](http://csssi.yale.edu/csssi-statistical-consultants-schedule):
-Even if you aren't submitting a grant proposal, it's a good idea to come to the StatLab at the beginning of your project. If you know what analyses you want to do on your data, the StatLab can make sure you set out to collect your data correctly.
+#### [Data Consultants](http://csssi.yale.edu/csssi-statistical-consultants-schedule):
+Even if you aren't submitting a grant proposal, it's a good idea to come to the CSSSI at the beginning of your project. CSSSI's data consultants can help you figure out how to collect and analyze your data, formulate research methodology, or just help you think through concepts. 
 
 
 # Data collection & documentation
@@ -76,16 +76,13 @@ Even if you aren't submitting a grant proposal, it's a good idea to come to the 
 + [Box](http://its.yale.edu/services/collaboration-and-file-sharing/box-yale):
 Box is a document-sharing cloud service available to everyone at Yale and is supported by Yale ITS. See the link for questions about security and size limits.
 
-+ [LabArchives](http://its.yale.edu/services/research-technologies/elab-notebook/labarchives-faqs):
-LabArchives is an electronic lab notebook solution available to everyone at Yale and is supported by Yale ITS. 
-
 + [EliApps](http://its.yale.edu/services/email-and-calendars/eliapps-google-apps-education):
 EliApps may be an appropriate place to collaborate for simple spreadsheets and forms for non-sensitive data.
 
 + [Qualtrics](http://its.yale.edu/services/web-and-application-services/qualtrics-survey-tool):
 Qualtrics is robust survey building software, is available to everyone at Yale, and is supported by Yale ITS. 
 
-+ [GitHub](https://github.com/): https://github.com/ GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. A Yale-supported enterprise GitHub is available, as well! https://git.yale.edu/
++ [GitHub](http://its.yale.edu/services/web-and-application-services/github-enterprise): GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. A Yale-supported enterprise GitHub is available, as well!
 
 ## Guidelines:
 
@@ -102,6 +99,7 @@ Qualtrics is robust survey building software, is available to everyone at Yale, 
 #### [Software](http://csssi.yale.edu/tech):
 + Stata, SAS, MatLab, R, OpenRefine, Python
 + [DataONE software tools catalog](http://www.dataone.org/software_tools_catalog)
++ [Tech at CSSSI](http://csssi.yale.edu/tech)
 
 #### [CSSSI Workshops](http://statlab.stat.yale.edu/workshops/)
 
@@ -119,7 +117,7 @@ Qualtrics is robust survey building software, is available to everyone at Yale, 
 
 ## What does this stage involve?
 
-Archiving and preserving research data is different from distributing it or backing it up regularly. Preservation ensures long-term retention of the data and the necessary migration from format to format that will be required to keep the data usable over a time period. Examples: [ISPS Data Archive](http://isps.yale.edu/research/data); [ICPSR](https://www.icpsr.umich.edu)
+Archiving and preserving research data is different from distributing it or backing it up regularly. Preservation ensures long-term retention of the data and the necessary migration from format to format that will be required to keep the data usable over a time period. Examples: [ISPS Data Archive](http://isps.yale.edu/research/data) & [ICPSR](https://www.icpsr.umich.edu)
 
 
 ## What tools and resources are available?
@@ -163,6 +161,11 @@ These guides may be useful as you work on your projects:
 + 203.432.4587
 + [michelle.hudson@yale.edu](michelle.hudson@yale.edu)
 + office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
+
+### Melanie Maksin
++ Librarian for Political Science, International Affairs, Public Policy, and Government Information
++ 203.432.3310
++ [melanie.maksin](melanie.maksin@yale.edu)
 
 ### Data Consultants @ CSSSI
 + Schedule: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
