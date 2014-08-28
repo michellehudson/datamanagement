@@ -1,9 +1,9 @@
 # Intro to Data Management for PoliSci
 ## Michelle Hudson
 ### PLSC 500 Fall 2014
-##### [https://github.com/michellehudson/datamanagement/](https://github.com/michellehudson/datamanagement/)
+##### [http://bit.ly/intro-rdm-polisci)
 
-![DDI lifecycle model](https://raw.github.com/michellehudson/datamanagement/master/images/ddilifecycle.png "Model based on the DDI Lifecycle")
+![DDI lifecycle model](https://github.com/michellehudson/datamanagement/blob/master/intro_data_management_polisci/images/ddilifecycle.png "Model based on the DDI Lifecycle")
 
 # Overview:
 
@@ -95,7 +95,7 @@ Qualtrics is robust survey building software, is available to everyone at Yale, 
 
 ## Reminder!
 
-![Bill Michener's description of data completeness over time](https://raw.github.com/michellehudson/datamanagement/master/images/death.png "Bill Michener's description of data completeness over time")
+![Bill Michener's description of data completeness over time](https://github.com/michellehudson/datamanagement/blob/master/intro_data_management_polisci/images/death.png "Bill Michener's description of data completeness over time")
 
 # Data processing & analysis
 
@@ -154,7 +154,6 @@ This is the stage (usually after archiving) where you can make your data, or a l
 These guides may be useful as you work on your projects:
 + [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
 + [http://guides.library.yale.edu/data-statistics](http://guides.library.yale.edu/data-statistics)
-+ [http://guides.library.yale.edu/eln](http://guides.library.yale.edu/eln)
 + [http://csssi.yale.edu/datamanagement](http://csssi.yale.edu/datamanagement)
 
 # Contact info 
@@ -165,7 +164,7 @@ These guides may be useful as you work on your projects:
 + [michelle.hudson@yale.edu](michelle.hudson@yale.edu)
 + office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
 
-### Consultants
+### Data Consultants @ CSSSI
 + Schedule: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
 + 203.432.3277
 
