@@ -1,7 +1,7 @@
 # Intro to Data Management for PoliSci
 ## Michelle Hudson
 ### PLSC 500 Fall 2014
-##### (http://bit.ly/intro-rdm-polisci)
+##### [http://bit.ly/intro-rdm-polisci](http://bit.ly/intro-rdm-polisci)
 
 ![DDI lifecycle model](https://github.com/michellehudson/datamanagement/blob/master/intro_data_management_polisci/images/ddilifecycle.png "Model based on the DDI Lifecycle")
 
@@ -10,7 +10,7 @@
 Using the DDI data lifecycle model as a guide, we'll cover the following questions:
 
 1. What does this stage of the data lifecycle involve?
-2. What resources are available for doing it well at Yale (& elsewhere)?
+2. What resources are available for doing it well at Yale?
 3. What are guidelines for managing data at this stage?
 
 # Outline:
@@ -111,7 +111,7 @@ Qualtrics is robust survey building software, is available to everyone at Yale, 
 
 ## Guidelines:
 1. Keep track of everything you do and always keep versions of your data sets.
-2. Best practices for working with data during analysis -- folder structures, naming conventions, statistical package considerations. [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
+2. Best practices for working with data during analysis -- folder structures, naming conventions, statistical package considerations. [Check the guide for more](http://guides.library.yale.edu/datamanagement)
 3. Back up your files! 
 
 
