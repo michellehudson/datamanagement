@@ -159,13 +159,13 @@ These guides may be useful as you work on your projects:
 ### Michelle Hudson
 + Science and Social Science Data Librarian
 + 203.432.4587
-+ [michelle.hudson@yale.edu](michelle.hudson@yale.edu)
++ [michelle.hudson@yale.edu](mailto:michelle.hudson@yale.edu)
 + office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
 
 ### Melanie Maksin
 + Librarian for Political Science, International Affairs, Public Policy, and Government Information
 + 203.432.3310
-+ [melanie.maksin](melanie.maksin@yale.edu)
++ [melanie.maksin@yale.edu](mailto:melanie.maksin@yale.edu)
 
 ### Data Consultants @ CSSSI
 + Schedule: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
