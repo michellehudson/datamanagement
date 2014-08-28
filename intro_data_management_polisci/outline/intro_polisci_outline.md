@@ -1,7 +1,7 @@
 # Intro to Data Management for PoliSci
 ## Michelle Hudson
 ### PLSC 500 Fall 2014
-##### [http://bit.ly/intro-rdm-polisci)
+##### (http://bit.ly/intro-rdm-polisci)
 
 ![DDI lifecycle model](https://github.com/michellehudson/datamanagement/blob/master/intro_data_management_polisci/images/ddilifecycle.png "Model based on the DDI Lifecycle")
 
