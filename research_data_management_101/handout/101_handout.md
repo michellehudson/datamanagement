@@ -3,7 +3,7 @@
 ### CSSSI workshop Feb 21 2014
 ##### [https://github.com/michellehudson/datamanagement/](https://github.com/michellehudson/datamanagement/)
 
-![DDI lifecycle model](https://raw.github.com/michellehudson/datamanagement/master/images/ddilifecycle.png "Model based on the DDI Lifecycle")
+![DDI lifecycle model](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/outline/ddilifecycle.png "Model based on the DDI Lifecycle")
 
 # Overview:
 
@@ -103,7 +103,7 @@ Qualtrics is robust survey building software, is available to everyone at Yale, 
 
 ## Reminder!
 
-![Bill Michener's description of data completeness over time](https://raw.github.com/michellehudson/datamanagement/master/images/death.png "Bill Michener's description of data completeness over time")
+![Bill Michener's description of data completeness over time](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/outline/death.png "Bill Michener's description of data completeness over time")
 
 # Data processing & analysis
 
