@@ -73,9 +73,7 @@ If data is managed within your lab, research group, or simply well-organized for
 5. use version control 
 6. secure the data appropriately 
 7. cite any secondary data you use 
-8. consider your long-term plan
-    8.1 What will you keep, for how long, where, and who will pay for it? 
-    8.2 What kinds of reuse or sharing will be allowed? In what timeframe?
+8. consider your long-term plan: What will you keep, for how long, where, and who will pay for it? What kinds of reuse or sharing will be allowed? In what timeframe?
 
 
 # Study concept
