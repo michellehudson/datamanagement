@@ -58,7 +58,7 @@ Managing data and making it accessible by peers decreases the chances of an arti
 
 ## Compliance:
 
-Data management plans are required by funding agencies, and there is increased expectation that the products of federal funding will be required to be accessible to the public. See more information about this on the [whitehouse.gov OSTP Memo on Expanding Public Access to the Results of Federally Funded Research](https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research). In addition, many journals are requiring data deposit before an article may be published.
+Data management plans are required by funding agencies, and there is increased expectation that the products of federal funding will be required to be accessible to the public. See more information about this on the [whitehouse.gov post on the OSTP Memo on Expanding Public Access to the Results of Federally Funded Research](https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research). In addition, many journals are requiring data deposit before an article may be published.
 
 ## Personal & professional benefits:
 
@@ -66,6 +66,15 @@ If data is managed within your lab, research group, or simply well-organized for
 
 # Data management checklist
 
+1. always keep original data 
+2. back up regularly (automate this if at all possible) 
+3. document your data thoroughly (metadata, data dictionary) 
+4. name and organize files according to a schema 
+5. use version control 
+6. secure the data appropriately 
+7. cite any secondary data you use 
+8. consider your long-term plan
+1. What will you keep, for how long, where, and who will pay for it? 2. What kinds of reuse or sharing will be allowed? In what timeframe
 
 
 # Study concept
