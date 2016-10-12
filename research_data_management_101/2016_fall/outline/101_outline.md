@@ -311,6 +311,7 @@ It's important for your data to be citable, and it's important to cite any data 
 # Resources
 
 #### [Data Management Research Guide](http://guides.library.yale.edu/datamanagement)
+CSSSI's data management guide. 
 
 
 #### [MANTRA](http://datalib.edina.ac.uk/mantra/)
