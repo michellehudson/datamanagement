@@ -7,7 +7,7 @@
 
 This two-hour workshop will provide an overview of the data lifecycle and the critical steps within it that need to be addressed to ensure integrity of research data. It is appropriate for students and faculty in all disciplines, however, the constrained time-frame and high level overview of the issues only warrant a few in-depth examples of tools and resources for specific disciplines. The workshop will focus on general good practices for data management that span disciplines. There will be Q&A time for specific questions, and attendees are always welcome to follow up with instructors or other specialist for more tailored data management instruction or assistance.
 
-![DDI lifecycle model](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/2016_fall/outline/ddilifecycle.png "Model based on the DDI Lifecycle")
+![DDI lifecycle model](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/2016_fall/images/ddilifecycle.png "Model based on the DDI Lifecycle")
 
 # General format:
 
