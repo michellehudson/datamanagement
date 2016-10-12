@@ -223,7 +223,6 @@ Example: Butler, Daniel M. et al. (2015) Replication Materials for ‘Ideology, 
 ## Organize files according to a schema
 
 
-
 ### Folders
 
 ### File naming
@@ -232,7 +231,11 @@ Example: Butler, Daniel M. et al. (2015) Replication Materials for ‘Ideology, 
 
 # Re-using data and making your data re-usable
 
+If you're re-using data from another source (downloaded from another institute, a data archive, from another researcher, etc.), you want to get to know it as completely as possible. If you're providing your data to an archive or to another researcher so they can re-use it, think about what information you'd need if you were using someone else's data, and make sure that information is included for your own.
 
+1. How was the data collected? What instruments (survey or scientific) were used? If it was a survey, what was the wording of the questions? Who coded the questions?
+2. How is the data coded? What are the codes for missing values, and what do they mean?
+3. Is the data pre-processed or cleaned? Is it weighted? Are any values interpolated? 
 
 # Data archiving & preservation
 
