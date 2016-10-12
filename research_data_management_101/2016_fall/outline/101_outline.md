@@ -7,6 +7,7 @@
 
 This two-hour workshop will provide an overview of the data lifecycle and the critical steps within it that need to be addressed to ensure integrity of research data. It is appropriate for students and faculty in all disciplines, however, the constrained time-frame and high level overview of the issues only warrant a few in-depth examples of tools and resources for specific disciplines. The workshop will focus on general good practices for data management that span disciplines. There will be Q&A time for specific questions, and attendees are always welcome to follow up with instructors or other specialist for more tailored data management instruction or assistance.
 
+# Data lifecycle model
 ![DDI lifecycle model](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/2016_fall/images/ddilifecycle.png "Model based on the DDI Lifecycle")
 
 # General format:
@@ -57,7 +58,7 @@ Managing data and making it accessible by peers decreases the chances of an arti
 
 ## Compliance:
 
-Data management plans are required by funding agencies, and there is increased expectation that the products of federal funding will be required to be accessible to the public. See more information about this on the [https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research](whitehouse.gov OSTP Memo on Expanding Public Access to the Results of Federally Funded Research). In addition, many journals are requiring data deposit before an article may be published.
+Data management plans are required by funding agencies, and there is increased expectation that the products of federal funding will be required to be accessible to the public. See more information about this on the [whitehouse.gov OSTP Memo on Expanding Public Access to the Results of Federally Funded Research](https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research). In addition, many journals are requiring data deposit before an article may be published.
 
 ## Personal & professional benefits:
 
