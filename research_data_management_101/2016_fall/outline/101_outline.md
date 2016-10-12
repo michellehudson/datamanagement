@@ -151,13 +151,12 @@ Formats of data files, intellectual property information, preservation metadata.
 
 ## Examples of metadata standards
 
-### Data Documentation Initiative
-Ecological Markup Language
-Darwin Core (based on Dublin Core)
-ISO Geospatial Metadata Standards
+#### Data Documentation Initiative
+#### Ecological Markup Language
+#### Darwin Core (based on Dublin Core)
+#### ISO Geospatial Metadata Standards
 
-[List of metadata standards from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/)
-
+More: [list of metadata standards from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/)
 
 ## What tools and resources are available?
 
@@ -167,10 +166,10 @@ Morpho was developed for data management in ecology.
 #### [Colectica](http://www.colectica.com/):
 Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
 
-https://www.fgdc.gov/iso-metadata-editors-registry/editors
+#### [ISO geospatial metadata editors](https://www.fgdc.gov/iso-metadata-editors-registry/editors)
+A comparison of tools available for editing geographic metadata.
 
-http://rd-alliance.github.io/metadata-directory/tools/
-
+More: [list of metadata tools from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/tools)
 
 ## Reminder!
 
@@ -188,52 +187,51 @@ Qualtrics is robust survey building software, is available to everyone at Yale, 
 #### [GitHub](https://github.com/):
 GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. GitHub is not supported by Yale ITS.
 
-# Data processing & analysis
+# Organizing and working with data files
 
-## What does this stage involve?
+## Main takeaways
 
-These stages are in separate boxes on the lifecycle model, and they may indeed be different steps, but not always. You usually process data in order to get to an analyzable form of it. The stages have the same considerations. This stage includes any data cleaning, refinement, integration, and organizing (combining variables, weighting variables) that you might do, as well as any computation necessary for analysis.
+1. Keep a codebook for all data
+2. Keep a log of all transforms and analyses (syntax)
+3. Save data often and back up files
+4. Use a versioning system
+5. Organize files
 
-## What tools and resources are available?
 
-#### [Software](http://csssi.yale.edu/tech):
-- Stata
-- SAS
-- MatLab
-- R
-- OpenRefine
-- Python
-- [DataONE software tools catalog](http://www.dataone.org/software_tools_catalog)
+## Codebooks
 
-#### [CSSSI Workshops](http://statlab.stat.yale.edu/workshops/)
+Codebooks are used in social science research to serve as a companion to the numeric data -- a human-readable manual containing all the metadata needed to understand and use data related to a project. You should have a codebook for your project that explains each variable and its values, any variables you've added or computed, etc. 
 
-#### [High Performance Computing](http://its.yale.edu/services/research-technologies/high-performance-computing)
+Example: [General Social Survey codebook, 1972 - 2014](http://gss.norc.org/Get-Documentation)
 
-#### [Geographic Information Systems](http://guides.library.yale.edu/gis)
+In addition to creating a codebook, you can also create a readme.txt file that lives in the home directory for your project and explains the latest notes, updates, and reminders for your project's data files.
 
-#### Workflow tools
+## Working with syntax files
 
-- [Kepler](https://kepler-project.org/): https://kepler-project.org/ : open source scientific workflow application.
-- [VisTrails](http://www.vistrails.org/index.php/Main_Page): http://www.vistrails.org : open source scientific workflow application, emphasis on visualization.
+Syntax files are separate text files used to enter commands that are then performed on the data. Keeping a log of your analyses this way makes your research more reliable (you can share your syntax code along with your data sets for replication purposes). With syntax files, you can add comments to commands so you remember why you performed which actions. 
 
-## People:
+The [ISPS Data Archive](http://isps.yale.edu/research/data) keeps data and syntax files for all studies.
+Example: Butler, Daniel M. et al. (2015) Replication Materials for ‘Ideology, Learning and Policy Diffusion: Experimental Evidence.’ [http://hdl.handle.net/10079/1zcrjs8](http://hdl.handle.net/10079/1zcrjs8).” ISPS Data Archive.
 
-#### Steve Weston, HPC specialist
-Steve has office hours in the CSSSI from 9:30 - 1:00 on Wednesdays.
+## Backup and versioning
 
-#### Stace Maples, GIS specialist
-Stace has office hours in the CSSSI, the med library, and HGS. Find out more here: [http://guides.library.yale.edu/gis](http://guides.library.yale.edu/gis)
+1. Implement a system for backing up all your project-related files (Box, USB drives, network shares).
+2. If you can't automate a system, back up manually according to a schedule and stick to it. 
+3. Explore options for using version tracking for data files, especially if more than one person is working on the same project. 
 
-#### StatLab consultants:
-StatLab consultants staff a desk in the CSSSI. Their schedules are: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
 
-#### Kristin Bogdan & Michelle Hudson, Data Librarians
-Kristin & Michelle have offices in CSSSI, and you can see their offsite office hours at: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
+## Organize files according to a schema
 
-## Guidelines:
-1. Keep track of everything you do and always keep versions of your data sets.
-2. Best practices for working with data during analysis -- folder structures, naming conventions, statistical package considerations.
-3. How to back up data. 
+
+
+### Folders
+
+### File naming
+
+
+
+# Re-using data and making your data re-usable
+
 
 
 # Data archiving & preservation
