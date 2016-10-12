@@ -109,13 +109,21 @@ Even if you aren't submitting a grant proposal, it's a good idea to come to the 
     * Are there any limitations that you need to address re: personally identifiable or health information?
     * How will necessary data be archived and preserved?
 
-# Data collection & documentation
+# Metadata & data description
 
-## What does this stage involve?
+## Metadata
 
-This stage involves all the collection and subsequent documentation of your data, and may involve collaboration with other people. There aren't a lot of collaborative online spaces for data collection, but we can discuss a few, and some general guidelines for documenting your research well.
+## Types of metadata
 
-## Study-level description
+### Administrative
+
+### Structural
+
+### Other one
+
+## Levels of metadata
+
+### Study-level description
 
 1. Context of the data collection (project history, aim, objectives, and hypotheses)
 2. Data collection methods (sampling, data collection process, instruments used, hardware and software used to collect data, scale and resolution, temporal and geographic coverage, secondary data sources used, if any)
@@ -123,7 +131,7 @@ This stage involves all the collection and subsequent documentation of your data
 4. Changes made to data over time
 5. Information on access and use conditions or data confidentiality
 
-## File-level description
+### File-level description
 
 1. Names, labels, and descriptions for variables, records, and their values
 2. Definition of codes & classification schemes used
@@ -136,16 +144,8 @@ This stage involves all the collection and subsequent documentation of your data
 #### [Box](http://its.yale.edu/services/collaboration-and-file-sharing/box-yale):
 Box is a document-sharing cloud service available to everyone at Yale and is supported by Yale ITS. See the link for questions about security and size limits.
 
-#### [LabArchives](http://its.yale.edu/services/research-technologies/elab-notebook/labarchives-faqs):
-LabArchives is an electronic lab notebook solution available to everyone at Yale and is supported by Yale ITS. 
-
-#### [EliApps](http://its.yale.edu/services/email-and-calendars/eliapps-google-apps-education):
-EliApps may be an appropriate place to collaborate for simple spreadsheets and forms for non-sensitive data.
-
 #### [Qualtrics](http://its.yale.edu/services/web-and-application-services/qualtrics-survey-tool):
 Qualtrics is robust survey building software, is available to everyone at Yale, and is supported by Yale ITS. 
-
-### Additional services & software:
 
 #### [GitHub](https://github.com/):
 GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. GitHub is not supported by Yale ITS.
