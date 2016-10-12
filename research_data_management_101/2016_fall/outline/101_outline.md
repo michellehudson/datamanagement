@@ -1,7 +1,7 @@
 # Research Data Management 101
 ## Michelle Hudson 
 ### CSSSI StatLab workshop Oct 14 2016
-##### [https://github.com/michellehudson/datamanagement/research_data_management_101](https://github.com/michellehudson/datamanagement/research_data_management_101)
+##### [https://github.com/michellehudson/datamanagement/research_data_management_101/2016_fall](https://github.com/michellehudson/datamanagement/research_data_management_101/2016_fall)
 
 # Description:
 
@@ -146,7 +146,10 @@ Formats of data files, intellectual property information, preservation metadata.
 
 ## Examples of metadata standards
 
-#### Data Documentation Initiative
+#### [Data Documentation Initiative](http://www.ddialliance.org/)
+
+A freely available, international standard for describing statistical and social science data. 
+
 #### Ecological Markup Language
 #### Darwin Core (based on Dublin Core)
 #### ISO Geospatial Metadata Standards
@@ -295,9 +298,6 @@ Datacite
 
 # Resources
 
-#### [NECDMC](http://library.umassmed.edu/necdmc/index)
-Some material from this presentation came from the New England Collaborative Data Management Curriculum.
-
 #### [MANTRA](http://datalib.edina.ac.uk/mantra/)
 Mantra is series of useful research data management training modules you can complete online.
 
@@ -306,6 +306,7 @@ These guides may be useful as you work on your projects:
 - [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
 - [http://guides.library.yale.edu/data-statistics](http://guides.library.yale.edu/data-statistics)
 - [http://guides.library.yale.edu/sciencedata](http://guides.library.yale.edu/sciencedata)
+
 
 # Contact info 
 
@@ -320,5 +321,5 @@ These guides may be useful as you work on your projects:
 ### StatLab Consultants
 - Schedule: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
 - 203.432.3277
-- [stathelp@yale.edu](mailto:stathelp@yale.edu) 
+- [Contact the StatLab](http://csssi.yale.edu/data-and-gis/statlab-consulting/contact-statlab)
 
