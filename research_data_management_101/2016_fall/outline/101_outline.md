@@ -291,15 +291,8 @@ These guides may be useful as you work on your projects:
 
 ### Michelle Hudson
 - Science and Social Science Data Librarian
-- 203.432.4587
 - [michelle.hudson@yale.edu](michelle.hudson@yale.edu)
-- office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
 
-### Kristin Bogdan
-- Science and Social Science Data Librarian
-- 203.436.5907
-- [kristin.bogdan@yale.edu](kristin.bogdan@yale.edu)
-- office hours: [http://bit.ly/datalibofficehours](http://bit.ly/datalibofficehours)
 
 ### StatLab Consultants
 - Schedule: [http://csssi.yale.edu/csssi-statistical-consultants-schedule](http://csssi.yale.edu/csssi-statistical-consultants-schedule)
