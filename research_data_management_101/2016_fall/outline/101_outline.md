@@ -150,11 +150,19 @@ Formats of data files, intellectual property information, preservation metadata.
 
 A freely available, international standard for describing statistical and social science data. 
 
-#### Ecological Markup Language
-#### Darwin Core (based on Dublin Core)
-#### ISO Geospatial Metadata Standards
+#### [Ecological Markup Language](https://knb.ecoinformatics.org/#external//emlparser/docs/index.html)
 
-More: [list of metadata standards from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/)
+The EML project is an open source, community oriented project dedicated to providing a high-quality metadata specification for describing data relevant to the ecological discipline. 
+
+#### [Darwin Core](http://rs.tdwg.org/dwc/)
+
+The Darwin Core is body of standards. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing reference definitions, examples, and commentaries.
+
+#### [ISO Geospatial Metadata Standards](https://www.fgdc.gov/metadata)
+
+Guides from the Federal Geographic Data Committee on applying appropriate metadata to geospatial information.
+
+#### More: [list of metadata standards from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/)
 
 ## What tools and resources are available?
 
@@ -167,7 +175,7 @@ Colectica is software that helps design, document, and publish statistical data 
 #### [ISO geospatial metadata editors](https://www.fgdc.gov/iso-metadata-editors-registry/editors)
 A comparison of tools available for editing geographic metadata.
 
-More: [list of metadata tools from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/tools)
+#### More: [list of metadata tools from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/tools)
 
 ## Reminder!
 
@@ -238,19 +246,19 @@ Or, feel free to [schedule a meeting with the data librarian](http://bit.ly/meet
 
 ## Data storage
 
-Box
-SecureBox
-Storage@Yale
+* [Box](http://its.yale.edu/services/email-and-collaboration-services/document-sharing-and-team-sites/box-yale)
+* [Storage@Yale](http://its.yale.edu/services/email-and-collaboration-services/document-sharing-and-team-sites/storageyale)
 
 ## Computing
 
-YCRC for HPC, workshops
-StatLab windows server
+### [Yale Center for Research Computing](http://research.computing.yale.edu/) for HPC support and training 
+
+### StatLab windows server for smaller jobs (email Themba Flowers for access)
 
 ## Data analysis
 
-StatLab consultants
-StatLab workshops
+### [StatLab consultants](http://csssi.yale.edu/data-and-gis/csssi-statisical-consulting/csssi-statistical-and-gis-consultants)
+### [StatLab workshops](http://csssi.yale.edu/instruction/workshop-and-instruction-calendar)
 
 
 # Preservation and archiving
@@ -281,20 +289,24 @@ The Inter-university Consortium for Political and Social research is a domain ar
 
 There are many platforms for data distribution that are easy, free, and meet many researcher needs. These solutions do not necessarily guarantee preservation-level archiving for research data, but they make data available and citable.
 
-### openICPSR
+### [openICPSR](https://www.openicpsr.org/openicpsr/)
 
-### Open Science Framework
+openICPSR is a branch of the ICPSR and is free for Yale researchers depositing social science and behavioral health related datasets. 
 
-### Dataverse
+### [Open Science Framework](https://osf.io/)
+
+The Open Science Framework is funded by federal agencies, private foundations, and commercial entities, and offers a free platform for data management and publication. 
+
+### [Dataverse](https://dataverse.harvard.edu/)
+
+Dataverse is repository software that institutions can set up and host, but it's also a network of these repository nodes. The Harvard instance of Dataverse is open to all researchers for data submission and publication through a personal account.
 
 
 ## Data citation
 
-Datacite
+It's important for your data to be citable, and it's important to cite any data you use in your analyses thoroughly. Look for a data sharing platform that will give you a permanent identifier (like a DOI or a handle) for your project. 
 
-### Guidelines:
-1. Give your data set a title and make it easy to credit you.
-2. Always cite data that you use as if it were as important as the journal articles you cite.
+[DataCite](https://www.datacite.org/index.html) is an international organization that provides permanent identifiers for data, and they provide a helpful [citation formatter for data](https://www.datacite.org/citation.html).
 
 # Resources
 
