@@ -179,7 +179,7 @@ A comparison of tools available for editing geographic metadata.
 
 ## Reminder!
 
-![Bill Michener's description of data completeness over time](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/2016_fall/outline/death.png "Bill Michener's description of data completeness over time")
+![Bill Michener's description of data completeness over time](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/2016_fall/images/death.png "Bill Michener's description of data completeness over time")
 
 
 # Organizing and working with data files
@@ -251,14 +251,14 @@ Or, feel free to [schedule a meeting with the data librarian](http://bit.ly/meet
 
 ## Computing
 
-### [Yale Center for Research Computing](http://research.computing.yale.edu/) for HPC support and training 
+* [Yale Center for Research Computing](http://research.computing.yale.edu/) for HPC support and training 
 
-### StatLab windows server for smaller jobs (email Themba Flowers for access)
+* StatLab windows server for smaller jobs (email Themba Flowers for access)
 
 ## Data analysis
 
-### [StatLab consultants](http://csssi.yale.edu/data-and-gis/csssi-statisical-consulting/csssi-statistical-and-gis-consultants)
-### [StatLab workshops](http://csssi.yale.edu/instruction/workshop-and-instruction-calendar)
+* [StatLab consultants](http://csssi.yale.edu/data-and-gis/csssi-statisical-consulting/csssi-statistical-and-gis-consultants)
+* [StatLab workshops](http://csssi.yale.edu/instruction/workshop-and-instruction-calendar)
 
 
 # Preservation and archiving
@@ -310,14 +310,12 @@ It's important for your data to be citable, and it's important to cite any data 
 
 # Resources
 
+#### [Data Management Research Guide](http://guides.library.yale.edu/datamanagement)
+
+
 #### [MANTRA](http://datalib.edina.ac.uk/mantra/)
 Mantra is series of useful research data management training modules you can complete online.
 
-#### Guides & links
-These guides may be useful as you work on your projects:
-- [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
-- [http://guides.library.yale.edu/data-statistics](http://guides.library.yale.edu/data-statistics)
-- [http://guides.library.yale.edu/sciencedata](http://guides.library.yale.edu/sciencedata)
 
 
 # Contact info 
