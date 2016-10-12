@@ -1,7 +1,7 @@
 # Research Data Management 101
-## Michelle Hudson & Kristin Bogdan
-### CSSSI workshop Feb 21 2014
-##### [https://github.com/michellehudson/datamanagement/](https://github.com/michellehudson/datamanagement/)
+## Michelle Hudson 
+### CSSSI StatLab workshop Oct 14 2016
+##### [https://github.com/michellehudson/datamanagement/research_data_management_101](https://github.com/michellehudson/datamanagement/research_data_management_101)
 
 # Description:
 
@@ -11,30 +11,34 @@ This two-hour workshop will provide an overview of the data lifecycle and the cr
 
 # General format:
 
-Using the DDI data lifecycle model as a guide, we'll cover the following questions:
-
-1. What does this stage of the data lifecycle involve?
-2. What resources are available for doing it well at Yale (& elsewhere)?
-3. What are guidelines for managing data at this stage?
 
 # Outline:
 
-1. What is data?
-2. Why manage it?
-3. Study concept
-4. Data collection
-5. Data processing
-6. Data archiving
-7. Data distribution
-8. More resources
-9. Q&A
+01. Research Data Consultation Group
+02. What is data?
+03. Why manage it?
+04. Data management checklist
+05. Data Management Planning
+06. Metadata & data description
+07. Organizing and working with data files
+08. Re-using data and making your data reusable
+09. Storage, computing, & analysis
+10. Data preservation & archiving data
+11. Sharing & publishing data
+12. Additional resources
+13. Q&A
 
+# Research Data Consultation Group
+
+[http://researchdata.yale.edu/](http://researchdata.yale.edu/)
+
+RDCG has 13 consultants from across Yale to help consult on finding and using data, analyzing data, storage options, preserving and archiving data, and more. Use the contact form at [http://researchdata.yale.edu/](http://researchdata.yale.edu/) to get assistance with research data issues at any point in your project.
 
 # What is research data?
 
-Research data is defined as "the recorded factual material commonly accepted in the scientific community as necessary to validate research findings." OMB Circular A-110.
+Research data is defined as "the recorded factual material commonly accepted in the scientific community as necessary to validate research findings." - OMB Circular A-110. More loosely, it's defined as *information collected, observed, or created for purposes of analysis to produce original research.*
 
-There are four types of research data:
+There are four general types of research data:
 
 1. Observational: captured in real time, usually irreplaceable (sensor readings, telescope images, sample data, surveys).
 2. Experimental: data from lab equipment, can be reproducible but may be expensive (gene sequences).
@@ -53,11 +57,15 @@ Managing data and making it accessible by peers decreases the chances of an arti
 
 ## Compliance:
 
-Data management plans are required by funding agencies, and there is increased expectation that the products of federal funding will be required to be accessible to the public. In addition, many journals are requiring data deposit before an article may be published.
+Data management plans are required by funding agencies, and there is increased expectation that the products of federal funding will be required to be accessible to the public. See more information about this on the [https://www.whitehouse.gov/blog/2013/02/22/expanding-public-access-results-federally-funded-research](whitehouse.gov OSTP Memo on Expanding Public Access to the Results of Federally Funded Research). In addition, many journals are requiring data deposit before an article may be published.
 
 ## Personal & professional benefits:
 
 If data is managed within your lab, research group, or simply well-organized for your own use, you will save time, energy, and resources. All members of the team will have an understanding of the well-documented processing and analysis of the project's data, and be able to carry out their research components more effectively. Sharing research data is now regarded as an integral and valuable part of the research process, and archiving your data in a repository will allow other researchers to build upon your work and cite you in the process.
+
+# Data management checklist
+
+
 
 # Study concept
 
