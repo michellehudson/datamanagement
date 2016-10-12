@@ -20,12 +20,12 @@ This two-hour workshop will provide an overview of the data lifecycle and the cr
 03. Why manage it?
 04. Data management checklist
 05. Data Management Planning
-06. Metadata & data description
+06. Metadata and data description
 07. Organizing and working with data files
 08. Re-using data and making your data reusable
-09. Storage, computing, & analysis
-10. Data preservation & archiving data
-11. Sharing & publishing data
+09. Storage, computing, and analysis
+10. Data preservation and archiving data
+11. Sharing and publishing data
 12. Additional resources
 13. Q&A
 
@@ -109,17 +109,25 @@ Even if you aren't submitting a grant proposal, it's a good idea to come to the 
     * Are there any limitations that you need to address re: personally identifiable or health information?
     * How will necessary data be archived and preserved?
 
-# Metadata & data description
+# Metadata and data description
 
 ## Metadata
 
+Metadata is the "data about data" that is needed to make numeric data usable. Without proper metadata and documentation of the research methods, analysis, variables, units, codes, and locations relevant to the numeric information, digital data is unusable. 
+
 ## Types of metadata
 
-### Administrative
+### Descriptive
+
+Title, author, abstract, keywords, geographic coordinates, species... 
 
 ### Structural
 
-### Other one
+Schematic relationships between files, relational information... 
+
+### Administrative
+
+Formats of data files, intellectual property information, preservation metadata...
 
 ## Levels of metadata
 
@@ -137,9 +145,39 @@ Even if you aren't submitting a grant proposal, it's a good idea to come to the 
 2. Definition of codes & classification schemes used
 3. Codes of and reasons for missing values
 
+### Variable-level description
+
+1. What does each variable mean in the context of the research? 
+
+## Examples of metadata standards
+
+### Data Documentation Initiative
+Ecological Markup Language
+Darwin Core (based on Dublin Core)
+ISO Geospatial Metadata Standards
+
+[List of metadata standards from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/)
+
+
 ## What tools and resources are available?
 
-### Yale-supported:
+#### [Morpho](https://knb.ecoinformatics.org/morphoportal.jsp):
+Morpho was developed for data management in ecology.
+
+#### [Colectica](http://www.colectica.com/):
+Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
+
+https://www.fgdc.gov/iso-metadata-editors-registry/editors
+
+http://rd-alliance.github.io/metadata-directory/tools/
+
+
+## Reminder!
+
+![Bill Michener's description of data completeness over time](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/2016_fall/outline/death.png "Bill Michener's description of data completeness over time")
+
+
+extra 
 
 #### [Box](http://its.yale.edu/services/collaboration-and-file-sharing/box-yale):
 Box is a document-sharing cloud service available to everyone at Yale and is supported by Yale ITS. See the link for questions about security and size limits.
@@ -149,29 +187,6 @@ Qualtrics is robust survey building software, is available to everyone at Yale, 
 
 #### [GitHub](https://github.com/):
 GitHub is a free or paid service, popular for writing and sharing software code, and can be used to track changes to files and work with multiple collaborators. GitHub is not supported by Yale ITS.
-
-#### [Morpho](https://knb.ecoinformatics.org/morphoportal.jsp):
-Morpho was developed for data management in ecology.
-
-#### [Earthcube](http://earthcube.org/):
-Earthcube is a community driven data and knowledge management system that will allow for data sharing across the geosciences. 
-
-#### [Colectica](http://www.colectica.com/):
-Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
-
-## Guidelines:
-
-1. Spreadsheets vs. databases: see the upcoming workshop on database design: 4/18/2014, 1:30 - 3:30 CSSSI.
-2. Consistency: whatever you do, stick with it.
-3. Level of detail: decide how much detail you'll need now and in the future.
-
-## Example: 
-
-The codebook for the [General Social Survey](http://www3.norc.org/GSS+Website/) is an enormous document that helps researchers use the data effectively and ensures that every variable is described. 
-
-## Reminder!
-
-![Bill Michener's description of data completeness over time](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/outline/death.png "Bill Michener's description of data completeness over time")
 
 # Data processing & analysis
 
@@ -283,9 +298,6 @@ These guides may be useful as you work on your projects:
 - [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
 - [http://guides.library.yale.edu/data-statistics](http://guides.library.yale.edu/data-statistics)
 - [http://guides.library.yale.edu/sciencedata](http://guides.library.yale.edu/sciencedata)
-- [http://guides.library.yale.edu/eln](http://guides.library.yale.edu/eln)
-- [http://csssi.yale.edu/datamanagement](http://csssi.yale.edu/datamanagement)
-
 
 # Contact info 
 
