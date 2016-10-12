@@ -27,9 +27,9 @@ This two-hour workshop will provide an overview of the data lifecycle and the cr
 
 # Research Data Consultation Group
 
-[http://researchdata.yale.edu/](http://researchdata.yale.edu/)
+[http://researchdata.yale.edu](http://researchdata.yale.edu/)
 
-RDCG has 13 consultants from across Yale to help consult on finding and using data, analyzing data, storage options, preserving and archiving data, and more. Use the contact form at [http://researchdata.yale.edu/](http://researchdata.yale.edu/) to get assistance with research data issues at any point in your project.
+RDCG has 13 consultants from across Yale to help consult on finding and using data, analyzing data, storage options, preserving and archiving data, and more. Use the [contact form](http://researchdata.yale.edu/contact) at [http://researchdata.yale.edu](http://researchdata.yale.edu/) to get assistance with research data issues at any point in your project.
 
 # What is research data?
 
@@ -253,7 +253,7 @@ Or, feel free to [schedule a meeting with the data librarian](http://bit.ly/meet
 
 * [Yale Center for Research Computing](http://research.computing.yale.edu/) for HPC support and training 
 
-* StatLab windows server for smaller jobs (email Themba Flowers for access)
+* StatLab windows server for smaller jobs (talk to Themba Flowers for access)
 
 ## Data analysis
 
@@ -268,7 +268,7 @@ How long you retain your data is often up to what your funding dictates -- some 
 
 ## Available repositories:
 
-The Registry of Research Data Repositories aims to list all the data repositories available for submission or for finding research data to reuse, and you can search or browse by subject: [re3data](http://www.re3data.org)
+The [Registry of Research Data Repositories](http://www.re3data.org) aims to list all the data repositories available for submission or for finding research data to reuse, and you can search or browse by subject.
 
 ## Guidelines: 
 1. Doing preservation yourself requires format migration and ensuring integrity of files.
