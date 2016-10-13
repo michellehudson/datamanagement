@@ -1,0 +1,1 @@
+This is an example folder structure and file naming system. The example data is from the Food Environment Atlas: https://catalog.data.gov/dataset/food-environment-atlas-f4a22 

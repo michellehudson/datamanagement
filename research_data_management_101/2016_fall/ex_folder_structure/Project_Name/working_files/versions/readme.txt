@@ -1,0 +1,1 @@
+Versions are arranged by date. Obsolete files are deleted. Previous versions are kept if necessary.
