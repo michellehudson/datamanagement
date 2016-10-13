@@ -1,0 +1,1 @@
+This file should accompany your project folder and explain what you do and why. Explain your naming convention, and keep a daily log for yourself of any transforms you do to the data, and what you have left to do for next time.
