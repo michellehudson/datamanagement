@@ -83,13 +83,13 @@ All NSF directorates, the NIH, and several other smaller funding agencies requir
 
 ## What tools and resources are available to help me write a DMP?
 
-#### [DMPTool](https://dmptool.org/): 
+#### DMPTool: [https://dmptool.org](https://dmptool.org/): 
 Yale is a DMPTool partner. Logging in with your Yale ID and password will give you access to the DMPTool, which will give you an overview of funder requirements (for various NSF, NIH, and other directorates and divisions), and walk you through building a data management plan, asking the right questions along the way. 
 
-#### [Research Data Consultation Group](http://researchdata.yale.edu/contact):
+#### Research Data Consultation Group: [http://researchdata.yale.edu/contact](http://researchdata.yale.edu/contact):
 If you have to submit a DMP as part of a grant proposal and have trouble using the DMPTool or answering questions you think are critical to the good management of data, you can contact the Research Data Consultation Group for help. This group can review written plans and offer feedback, or connect you with more resources at Yale you might be able to cite or consider including in your plan to make a stronger proposal.
 
-#### [StatLab consultants](http://csssi.yale.edu/data/csssi-statistical-consulting):
+#### StatLab consultants: [http://csssi.yale.edu/data/csssi-statistical-consulting](http://csssi.yale.edu/data/csssi-statistical-consulting):
 Even if you aren't submitting a grant proposal, it's a good idea to come to the StatLab at the beginning of your project. If you know what analyses you want to do on your data, the StatLab can make sure you set out to collect your data correctly. If you anticipate using StatLab services near the end of your project, it's much easier for them if you connect in the beginning of the project, as well.
 
 ## Things to consider when writing a DMP
@@ -146,19 +146,19 @@ Formats of data files, intellectual property information, preservation metadata.
 
 ## Examples of metadata standards
 
-#### [Data Documentation Initiative](http://www.ddialliance.org/)
+#### Data Documentation Initiative: [http://www.ddialliance.org](http://www.ddialliance.org/)
 
 A freely available, international standard for describing statistical and social science data. 
 
-#### [Ecological Markup Language](https://knb.ecoinformatics.org/#external//emlparser/docs/index.html)
+#### Ecological Markup Language: [https://knb.ecoinformatics.org/#external//emlparser/docs/index.html](https://knb.ecoinformatics.org/#external//emlparser/docs/index.html)
 
 The EML project is an open source, community oriented project dedicated to providing a high-quality metadata specification for describing data relevant to the ecological discipline. 
 
-#### [Darwin Core](http://rs.tdwg.org/dwc/)
+#### Darwin Core: [http://rs.tdwg.org/dwc/](http://rs.tdwg.org/dwc/)
 
 The Darwin Core is body of standards. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing reference definitions, examples, and commentaries.
 
-#### [ISO Geospatial Metadata Standards](https://www.fgdc.gov/metadata)
+#### ISP Geospatial Metadata Standards: [https://www.fgdc.gov/metadata](https://www.fgdc.gov/metadata)
 
 Guides from the Federal Geographic Data Committee on applying appropriate metadata to geospatial information.
 
@@ -166,13 +166,13 @@ Guides from the Federal Geographic Data Committee on applying appropriate metada
 
 ## What tools and resources are available?
 
-#### [Morpho](https://knb.ecoinformatics.org/morphoportal.jsp):
+#### Morpho: [https://knb.ecoinformatics.org/morphoportal.jsp](https://knb.ecoinformatics.org/morphoportal.jsp):
 Morpho was developed for data management in ecology.
 
-#### [Colectica](http://www.colectica.com/):
+#### Colectica: [http://www.colectica.com](http://www.colectica.com/):
 Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
 
-#### [ISO geospatial metadata editors](https://www.fgdc.gov/iso-metadata-editors-registry/editors)
+#### ISO geospatial metadata editors: [https://www.fgdc.gov/iso-metadata-editors-registry/editors](https://www.fgdc.gov/iso-metadata-editors-registry/editors)
 A comparison of tools available for editing geographic metadata.
 
 #### More: [list of metadata tools from the Research Data Alliance](http://rd-alliance.github.io/metadata-directory/tools)
@@ -218,9 +218,32 @@ Example: Butler, Daniel M. et al. (2015) Replication Materials for ‘Ideology, 
 
 Before you begin a project, decide (in cooperation with your lab, PI, or others if necessary) on a folder structure and naming convention. There are few best practices around this during the active stage of working with data, and researchers do it differently according to the needs of their lab and their data. The best advice is to decide on something and stick with it. 
 
+
 ### Folder structure
 
+* Use a hierarchical structure.
+* Keep original data and working file separate.
+* Keep a readme.txt.
+* Keep any geospatial data together in its folders. 
+
+
+### Folder structure example
+
+Link
+Photo
+
 ### File naming
+
+* Use descriptive filenames, but not too long. 
+* Do not use special characters. 
+* Include date information at the beginning or end of the file and be consistent. 
+* Use underscores, not spaces. 
+* Considering including: project name, researcher initials, version number.
+
+### File naming example
+
+Link
+Photo
 
 
 
@@ -268,7 +291,7 @@ How long you retain your data is often up to what your funding dictates -- some 
 
 ## Available repositories:
 
-The [Registry of Research Data Repositories](http://www.re3data.org) aims to list all the data repositories available for submission or for finding research data to reuse, and you can search or browse by subject.
+The Registry of Research Data Repositories [http://www.re3data.org](http://www.re3data.org) aims to list all the data repositories available for submission or for finding research data to reuse, and you can search or browse by subject.
 
 ## Guidelines: 
 1. Doing preservation yourself requires format migration and ensuring integrity of files.
@@ -276,10 +299,10 @@ The [Registry of Research Data Repositories](http://www.re3data.org) aims to lis
 
 ## Examples: 
 
-#### [Institution for Social & Policy Studies](http://isps.yale.edu/research/data)
+#### Institution for Social & Policy Studies: [http://isps.yale.edu/research/data](http://isps.yale.edu/research/data)
 ISPS is a Yale department that maintains a data archive of research that has been conducted by their affiliates.
 
-#### [ICPSR](http://icpsr.umich.edu)
+#### ICPSR: [http://icpsr.umich.edu](http://icpsr.umich.edu)
 The Inter-university Consortium for Political and Social research is a domain archive that has been curating and maintaining access to data sets for over 50 years.
 
 
@@ -289,15 +312,15 @@ The Inter-university Consortium for Political and Social research is a domain ar
 
 There are many platforms for data distribution that are easy, free, and meet many researcher needs. These solutions do not necessarily guarantee preservation-level archiving for research data, but they make data available and citable.
 
-### [openICPSR](https://www.openicpsr.org/openicpsr/)
+### openICPSR: [https://www.openicpsr.org](https://www.openicpsr.org/openicpsr/)
 
 openICPSR is a branch of the ICPSR and is free for Yale researchers depositing social science and behavioral health related datasets. 
 
-### [Open Science Framework](https://osf.io/)
+### Open Science Framework: [https://osf.io](https://osf.io/)
 
 The Open Science Framework is funded by federal agencies, private foundations, and commercial entities, and offers a free platform for data management and publication. 
 
-### [Dataverse](https://dataverse.harvard.edu/)
+### Dataverse: [https://dataverse.harvard.edu](https://dataverse.harvard.edu/)
 
 Dataverse is repository software that institutions can set up and host, but it's also a network of these repository nodes. The Harvard instance of Dataverse is open to all researchers for data submission and publication through a personal account.
 
@@ -306,15 +329,15 @@ Dataverse is repository software that institutions can set up and host, but it's
 
 It's important for your data to be citable, and it's important to cite any data you use in your analyses thoroughly. Look for a data sharing platform that will give you a permanent identifier (like a DOI or a handle) for your project. 
 
-[DataCite](https://www.datacite.org/index.html) is an international organization that provides permanent identifiers for data, and they provide a helpful [citation formatter for data](https://www.datacite.org/citation.html).
+DataCite [https://www.datacite.org/index.html](https://www.datacite.org/index.html) is an international organization that provides permanent identifiers for data, and they provide a helpful [citation formatter for data](https://www.datacite.org/citation.html).
 
 # Resources
 
-#### [Data Management Research Guide](http://guides.library.yale.edu/datamanagement)
+#### Data Management Research Guide: [http://guides.library.yale.edu/datamanagement](http://guides.library.yale.edu/datamanagement)
 CSSSI's data management guide. 
 
 
-#### [MANTRA](http://datalib.edina.ac.uk/mantra/)
+#### MANTRA: [http://datalib.edina.ac.uk/mantra](http://datalib.edina.ac.uk/mantra/)
 Mantra is series of useful research data management training modules you can complete online.
 
 
