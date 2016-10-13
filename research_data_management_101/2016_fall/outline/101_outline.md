@@ -166,10 +166,10 @@ Guides from the Federal Geographic Data Committee on applying appropriate metada
 
 ## What tools and resources are available?
 
-#### Morpho: [https://knb.ecoinformatics.org/morphoportal.jsp](https://knb.ecoinformatics.org/morphoportal.jsp):
+#### Morpho: [https://knb.ecoinformatics.org/morphoportal.jsp](https://knb.ecoinformatics.org/morphoportal.jsp)
 Morpho was developed for data management in ecology.
 
-#### Colectica: [http://www.colectica.com](http://www.colectica.com/):
+#### Colectica: [http://www.colectica.com](http://www.colectica.com/)
 Colectica is software that helps design, document, and publish statistical data and survey research using open data standards.
 
 #### ISO geospatial metadata editors: [https://www.fgdc.gov/iso-metadata-editors-registry/editors](https://www.fgdc.gov/iso-metadata-editors-registry/editors)
