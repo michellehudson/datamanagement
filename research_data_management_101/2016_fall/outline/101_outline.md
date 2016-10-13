@@ -229,8 +229,9 @@ Before you begin a project, decide (in cooperation with your lab, PI, or others 
 
 ### Folder structure example
 
-Link
-Photo
+![Example folder structure](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/2016_fall/images/folder_structure.png "example folder structure")
+
+[https://github.com/michellehudson/datamanagement/tree/master/research_data_management_101/2016_fall/ex_folder_structure](https://github.com/michellehudson/datamanagement/tree/master/research_data_management_101/2016_fall/ex_folder_structure)
 
 ### File naming
 
@@ -242,8 +243,9 @@ Photo
 
 ### File naming example
 
-Link
-Photo
+![Example folder structure](https://raw.githubusercontent.com/michellehudson/datamanagement/master/research_data_management_101/2016_fall/images/folder_structure.png "example folder structure")
+
+[https://github.com/michellehudson/datamanagement/tree/master/research_data_management_101/2016_fall/ex_folder_structure](https://github.com/michellehudson/datamanagement/tree/master/research_data_management_101/2016_fall/ex_folder_structure)
 
 
 
