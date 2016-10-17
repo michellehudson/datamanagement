@@ -1,7 +1,7 @@
 # Research Data Management 101
 ## Michelle Hudson 
 ### CSSSI StatLab workshop Oct 14 2016
-##### [https://github.com/michellehudson/datamanagement/research_data_management_101/2016_fall](https://github.com/michellehudson/datamanagement/research_data_management_101/2016_fall)
+##### [https://github.com/michellehudson/datamanagement](https://github.com/michellehudson/datamanagement)
 
 # Description:
 
@@ -158,7 +158,7 @@ The EML project is an open source, community oriented project dedicated to provi
 
 The Darwin Core is body of standards. It includes a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing reference definitions, examples, and commentaries.
 
-#### ISP Geospatial Metadata Standards: [https://www.fgdc.gov/metadata](https://www.fgdc.gov/metadata)
+#### ISO Geospatial Metadata Standards: [https://www.fgdc.gov/metadata](https://www.fgdc.gov/metadata)
 
 Guides from the Federal Geographic Data Committee on applying appropriate metadata to geospatial information.
 
@@ -222,7 +222,7 @@ Before you begin a project, decide (in cooperation with your lab, PI, or others 
 ### Folder structure
 
 * Use a hierarchical structure.
-* Keep original data and working file separate.
+* Keep original data and working files separate.
 * Keep a readme.txt.
 * Keep any geospatial data together in its folders. 
 
